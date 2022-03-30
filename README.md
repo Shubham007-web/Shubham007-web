@@ -6,4 +6,8 @@
 -  [Linkedin](https://www.linkedin.com/in/shubham-kumar-soni-320b331b0/)
 -  [Tiwtter](https://twitter.com/Shubham74347618)
 
+# Languages and Tools:
+- (![sklearn](https://github.com/[Shubham007-web]/[Logos]/blob/[main]/sklearn.png?raw=true)
+)
+
 
