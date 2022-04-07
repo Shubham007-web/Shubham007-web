@@ -1,7 +1,7 @@
 ## Hello World !
 - I’m **Shubham Soni**, a passionate self-taught machine learning engineer from india. I am highly interested in making predictive model based on the given datasets, and currently working on Machine learning and deep learning problems.
 -   I’m looking for collaboration with start-ups.
-- 💞️ I’m looking to collaborate on applied part of deep learning techniques to slove probelms.
+- 💞️ I’m looking to collaborate on applied part of Deep learning techniques to slove probelms.
 ### How to reach me:
 [<img src="https://github.com/Shubham007-web/Logos/blob/main/gmail.png" width="50" height="40">](shubham.soni9044@gmail.com) [<img src="https://github.com/Shubham007-web/Logos/blob/main/linkindin.png" width="50" height="50">](https://www.linkedin.com/in/shubham-kumar-soni-320b331b0/)
 [<img src="https://github.com/Shubham007-web/Logos/blob/main/twitter.jpg" width="50" height="50">](https://twitter.com/Shubham74347618)
