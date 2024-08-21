@@ -1,7 +1,13 @@
 ## Hello World !
-- I’m **Shubham Soni**, a passionate self-taught machine learning engineer from india. I am highly interested in making predictive model based on the given datasets, and currently working on Machine learning and deep learning problems.
--   I’m looking for collaboration with start-ups.
-- 💞️ I’m looking to collaborate on applied part of Machine and Deep learning techniques to slove probelms.
+I'm **Shubham Soni**, a self-taught and passionate data science professional from India. My journey started with an intense curiosity about how data can be transformed into actionable insights. Over the years, I've trained over 2,000+ individuals in their journey toward mastering data science, machine learning, and AI. My experience as a data science faculty has equipped me with a unique perspective on education, which I am now leveraging to revolutionize the field.
+
+- 🚀 I specialize in building predictive models and developing end-to-end machine learning pipelines.
+- 🎓 I have trained and mentored 2,000+ students and professionals, helping them transition into successful careers in data science and AI.
+- 📚 I am currently working as a data scientist in the education sector, focusing on creating innovative solutions that reduce human effort in educational content creation through the use of Large Language Models (LLMs).
+- 🌱 I am continuously learning and experimenting with new data science tools and techniques to stay at the forefront of the field.
+- 💡 I am open to collaborations, especially with startups and research projects that are keen on leveraging data science for innovation.
+- 🛠️ I am eager to apply advanced machine learning and deep learning techniques to real-world problems, particularly in education, to make learning more accessible and personalized.
+  
 ### How to reach me:
 [<img src="https://github.com/Shubham007-web/Logos/blob/main/gmail.png" width="50" height="40">](shubham.soni9044@gmail.com) [<img src="https://github.com/Shubham007-web/Logos/blob/main/linkindin.png" width="50" height="50">](https://www.linkedin.com/in/shubham-kumar-soni-320b331b0/)
 [<img src="https://github.com/Shubham007-web/Logos/blob/main/twitter.jpg" width="50" height="50">](https://twitter.com/Shubham74347618)
